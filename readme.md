@@ -14,9 +14,6 @@
 
 <br>
 
-[![Website](https://img.shields.io/badge/Website-博客-brightgreen?style=for-the-badge&logo=appveyor)](https://sakura.firefly520.top)
-[![Email](https://img.shields.io/badge/Email-联系我-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:Sakura520222@outlook.com)
-
 欢迎来到我的 GitHub 空间！✨
 
 </div>
@@ -71,10 +68,6 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sakura520222&show_icons=true&theme=vue&hide_border=true&bg_color=0D1117&title_color=42b883&icon_color=42b883&text_color=C9D1D9)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakura520222)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Sakura520222&theme=vue&hide_border=true&background=0D1117&stroke=42b883&ring=42b883&fire=FFC107&currStreakLabel=C9D1D9)](https://git.io/streak-stats)
 
 </div>
@@ -84,8 +77,6 @@
 ## 🏆 成就与贡献 / Achievements
 
 <div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sakura520222&theme=vue&no-frame=true&no-bg=true&margin-w=10)
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sakura520222)
 
