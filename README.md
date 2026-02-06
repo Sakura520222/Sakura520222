@@ -29,7 +29,7 @@
 
 ---
 
-## 🛠 技术栈 / Tech Stack
+## 技术栈 / Tech Stack
 
 ### 前端开发
 <p>
