@@ -20,12 +20,12 @@
 
 ---
 
-## 🌟 关于我 / About Me
+## 关于我 / About Me
 
-- 🔭 **正在努力**: 完善我的个人项目和技术栈
-- 🌱 **正在学习**: 探索更多有趣的前端/后端技术
-- 💬 **愿意交流**: 技术分享、项目合作、经验交流
-- ⚡ **趣味属性**: 像车厘子一样甜，像小樱一样有元气！
+- **正在努力**: 完善我的个人项目和技术栈
+- **正在学习**: 探索更多有趣的前端/后端技术
+- **愿意交流**: 技术分享、项目合作、经验交流
+- **趣味属性**: 像车厘子一样甜，像小樱一样有元气！
 
 ---
 
@@ -64,7 +64,7 @@
 
 ---
 
-## 📊 GitHub 统计 / Stats
+## GitHub 统计 / Stats
 
 <div align="center">
 
@@ -74,7 +74,7 @@
 
 ---
 
-## 🏆 成就与贡献 / Achievements
+## 成就与贡献 / Achievements
 
 <div align="center">
 
@@ -84,7 +84,7 @@
 
 ---
 
-## 📫 联系我 / Contact
+## 联系我 / Contact
 
 <div align="center">
 
@@ -123,10 +123,4 @@
 
 > "始于初雪终于樱"
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Made%20with-❤️-red" alt="Made with love"/>
 </div>
