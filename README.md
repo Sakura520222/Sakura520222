@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 你好，我是 Sakura520222
+# 你好，我是 Sakura520222
 
 ### 车厘子小樱 | 一位热爱技术与生活的小小开发者
 
@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=2000&color=42b883&center=true&vCenter=true&width=940&lines=%E5%83%8F%E8%BD%A6%E5%8E%98%E5%AD%90%E4%B8%80%E6%A0%B7%E7%94%9C%F0%9F%8D%92%EF%BC%8C%E5%83%8F%E5%B0%8F%E6%A8%B1%E4%B8%80%E6%A0%B7%E6%9C%89%E5%85%83%E6%B0%94!;Welcome+to+my+GitHub+space!;%E5%A7%8B%E4%BA%8E%E5%88%9D%E9%9B%AA%E7%BB%88%E4%BA%8E%E6%A8%B1%F0%9F%8C%B8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=2000&color=FFB7C5&center=true&vCenter=true&width=940&lines=%E5%83%8F%E8%BD%A6%E5%8E%98%E5%AD%90%E4%B8%80%E6%A0%B7%E7%94%9C%EF%BC%8C%E5%83%8F%E5%B0%8F%E6%A8%B1%E4%B8%80%E6%A0%B7%E6%9C%89%E5%85%83%E6%B0%94!;Welcome+to+my+GitHub+space!;%E5%A7%8B%E4%BA%8E%E5%88%9D%E9%9B%AA%E7%BB%88%E4%BA%8E%E6%A8%B1" alt="Typing SVG" />
   </a>
 </div>
 
@@ -20,12 +20,22 @@
 
 ---
 
+## 访客统计 / Visitors
+
+<div align="center">
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Sakura520222&left_color=FFB7C5&right_color=DB7093)
+
+</div>
+
+---
+
 ## 关于我 / About Me
 
 - **正在努力**: 完善我的个人项目和技术栈
 - **正在学习**: 探索更多有趣的前端/后端技术
 - **愿意交流**: 技术分享、项目合作、经验交流
-- **趣味属性**: 像车厘子一样甜，像小樱一样有元气！
+- **趣味属性**: 像车厘子一样甜，像小樱一样有元气
 
 ---
 
@@ -68,7 +78,20 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Sakura520222&theme=vue&hide_border=true&background=0D1117&stroke=42b883&ring=42b883&fire=FFC107&currStreakLabel=C9D1D9)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Sakura520222&theme=vue&hide_border=true&background=FFF0F5&stroke=FFB7C5&ring=FFB7C5&fire=FF69B4&currStreakLabel=DB7093&sideNums=DB7093)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![Sakura's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sakura520222&show_icons=true&theme=vue&hide_border=true&bg_color=FFF0F5&icon_color=FFB7C5&title_color=DB7093&text_color=4A4A4A&border_color=FFB7C5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakura520222&layout=compact&theme=vue&hide_border=true&bg_color=FFF0F5&icon_color=FFB7C5&title_color=DB7093&text_color=4A4A4A&border_color=FFB7C5)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sakura520222&theme=vue&no-bg=true&no-frame=true&margin-w=10&title-color=DB7093&text-color=4A4A4A&icon-color=FFB7C5" alt="GitHub Trophies">
 
 </div>
 
@@ -78,7 +101,7 @@
 
 <div align="center">
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sakura520222)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sakura520222&theme=vue&bg_color=FFF0F5&color=4A4A4A&line=FFB7C5&point=FF69B4)
 
 </div>
 
@@ -119,7 +142,7 @@
 
 <div align="center">
 
-### ✨ 感谢你花时间了解我！期待与你的交流与合作 ✨
+### 感谢你花时间了解我！期待与你的交流与合作
 
 > "始于初雪终于樱"
 
