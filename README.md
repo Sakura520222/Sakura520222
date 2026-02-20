@@ -24,7 +24,7 @@
 
 <div align="center">
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Sakura520222&left_color=FFB7C5&right_color=DB7093)
+![visitors](https://api.visitorbadge.io/api/visitors?path=Sakura520222&countColor=%23DB7093&style=flat&labelStyle=none)
 
 </div>
 
@@ -69,29 +69,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sakura520222/Sakura520222/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sakura520222/Sakura520222/output/github-contribution-grid-snake.svg">
 </picture>
-
-</div>
-
----
-
-## GitHub 统计 / Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Sakura520222&theme=vue&hide_border=true&background=FFF0F5&stroke=FFB7C5&ring=FFB7C5&fire=FF69B4&currStreakLabel=DB7093&sideNums=DB7093)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-[![Sakura's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sakura520222&show_icons=true&theme=vue&hide_border=true&bg_color=FFF0F5&icon_color=FFB7C5&title_color=DB7093&text_color=4A4A4A&border_color=FFB7C5)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakura520222&layout=compact&theme=vue&hide_border=true&bg_color=FFF0F5&icon_color=FFB7C5&title_color=DB7093&text_color=4A4A4A&border_color=FFB7C5)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sakura520222&theme=vue&no-bg=true&no-frame=true&margin-w=10&title-color=DB7093&text-color=4A4A4A&icon-color=FFB7C5" alt="GitHub Trophies">
 
 </div>
 
