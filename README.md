@@ -1,66 +1,32 @@
 <div align="center">
 
-# 你好，我是 Sakura520222
-
-### 车厘子小樱 | 一位热爱技术与生活的小小开发者
-
-<br>
-
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=2000&color=FFB7C5&center=true&vCenter=true&width=940&lines=%E5%83%8F%E8%BD%A6%E5%8E%98%E5%AD%90%E4%B8%80%E6%A0%B7%E7%94%9C%EF%BC%8C%E5%83%8F%E5%B0%8F%E6%A8%B1%E4%B8%80%E6%A0%B7%E6%9C%89%E5%85%83%E6%B0%94!;Welcome+to+my+GitHub+space!;%E5%A7%8B%E4%BA%8E%E5%88%9D%E9%9B%AA%E7%BB%88%E4%BA%8E%E6%A8%B1" alt="Typing SVG" />
+  <a href="https://github.com/Sakura520222">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFB7C5&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Sakura520222;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
   </a>
 </div>
 
-<br>
-
-欢迎来到我的 GitHub 空间！
-
 </div>
 
----
+- 正在努力完善个人项目和技术栈
+- 正在探索更多有趣的前端/后端技术
+- 愿意交流技术分享、项目合作、经验交流
 
-## 访客统计 / Visitors
+---
 
 <div align="center">
-
-![visitors](https://api.visitorbadge.io/api/visitors?path=Sakura520222&countColor=%23DB7093&style=flat&labelStyle=none)
-
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
 </div>
 
 ---
-
-## 关于我 / About Me
-
-- **正在努力**: 完善我的个人项目和技术栈
-- **正在学习**: 探索更多有趣的前端/后端技术
-- **愿意交流**: 技术分享、项目合作、经验交流
-- **趣味属性**: 像车厘子一样甜，像小樱一样有元气
-
----
-
-## 技术栈 / Tech Stack
-
-### 前端开发
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-</p>
-
-### 后端开发
-<p>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-</p>
-
----
-
-## 贡献 / Contribution
 
 <div align="center">
 
@@ -74,17 +40,29 @@
 
 ---
 
-## 成就与贡献 / Achievements
-
 <div align="center">
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sakura520222&theme=vue&bg_color=FFF0F5&color=4A4A4A&line=FFB7C5&point=FF69B4)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sakura520222&theme=buefy&hide_border=true&background=FFF0F5&stroke=FFB7C5&ring=FF69B4&fire=FFB7C5&currStreakLabel=FF69B4&sideLabels=FFB7C5&sideNums=FF69B4" height="165" alt="streak stats" />
+
+<br/>
+
+<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Sakura520222&layout=compact&langs_count=8&theme=buefy&bg_color=FFF0F5&title_color=FF69B4&text_color=4A4A4A&icon_color=FFB7C5" alt="Top Languages" height="158" />
+
+<br/>
+
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=Sakura520222&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&bg_color=FFF0F5&title_color=FF69B4&text_color=4A4A4A&icon_color=FFB7C5" alt="GitHub Stats" />
 
 </div>
 
 ---
 
-## 联系我 / Contact
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakura520222&theme=buefy&bg_color=FFF0F5&color=4A4A4A&line=FFB7C5&point=FF69B4" />
+
+</div>
+
+---
 
 <div align="center">
 
@@ -92,22 +70,22 @@
   <tr>
     <td align="center" width="96">
       <a href="mailto:Sakura520222@outlook.com">
-        <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" width="90" alt="Email"/>
+        <img src="https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" width="90"/>
       </a>
     </td>
     <td align="center" width="96">
       <a href="https://sakura.firefly520.top">
-        <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" width="90" alt="Blog"/>
+        <img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white" width="90"/>
       </a>
     </td>
     <td align="center" width="96">
       <a href="https://t.me/tamakisakura520">
-        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="90" alt="Telegram"/>
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" width="90"/>
       </a>
     </td>
     <td align="center" width="96">
       <a href="https://x.com/CherrySakura520">
-        <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" width="90" alt="X"/>
+        <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" width="90"/>
       </a>
     </td>
   </tr>
@@ -115,12 +93,16 @@
 
 </div>
 
----
+<div align="center">
+
+![visitors](https://api.visitorbadge.io/api/visitors?path=Sakura520222&countColor=%23FFB7C5&style=flat&labelStyle=none)
+
+</div>
 
 <div align="center">
 
-### 感谢你花时间了解我！期待与你的交流与合作
+### 感谢你花时间了解我！期待与你的交流和合作
 
-> "始于初雪终于樱"
+> 始于初雪终于樱
 
 </div>
