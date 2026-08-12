@@ -1,0 +1,39 @@
+name: Waka Readme Stats
+
+# 每日自动刷新「🌸 编程年报」数据；也支持手动触发 / 改动本文件时触发
+on:
+  schedule:
+    # UTC 18:30 ≈ 北京时间 02:30，每日一次
+    - cron: "30 18 * * *"
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+    paths:
+      - '.github/workflows/waka-readme.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  wakatime:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      # anmol098/waka-readme-stats：读取 Wakatime + GitHub 数据，填充 README 里
+      # <!--START_SECTION:waka--> … <!--END_SECTION:waka--> 之间的内容
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          # 中文输出
+          LOCALE: "zh"
+          # 页脚「Last Updated」时间戳
+          SHOW_UPDATED_DATE: "True"
+          UPDATED_DATE_FORMAT: "%Y-%m-%d %H:%M:%S UTC"
+          # 「从 Hello World 起已写了 X 行代码」徽章
+          SHOW_LINES_OF_CODE: "True"
+          # ⬛⬜ 实心方块进度条样式
+          SYMBOL_VERSION: "3"
+          # 想忽略某些仓库统计时在这里填（逗号分隔），例如：Sakura520222,某fork仓库
+          IGNORED_REPOS: ""
+          COMMIT_MESSAGE: "docs(readme): 自动更新编程年报数据"

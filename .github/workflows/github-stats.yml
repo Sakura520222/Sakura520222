@@ -1,0 +1,63 @@
+name: Generate README Stats
+
+# 每日生成樱花粉配色的 Stats / Top Langs 卡片（明暗双版），推送到 stats-output 分支
+on:
+  schedule:
+    - cron: "30 18 * * *"
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+    paths:
+      - '.github/workflows/github-stats.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # ==================== 浅色版本（樱花粉） ====================
+      - name: Generate Light Stats Card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&count_private=true&bg_color=FFF0F5&title_color=FF69B4&text_color=4A4A4A&icon_color=FFB7C5&border_color=FFB7C5&hide_border=false
+          path: profile/stats-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Light Top Languages Card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&show_icons=true&bg_color=FFF0F5&title_color=FF69B4&text_color=4A4A4A&icon_color=FFB7C5&border_color=FFB7C5&hide_border=false
+          path: profile/top-langs-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # ==================== 深色版本（粉字 + GitHub Dark 底） ====================
+      - name: Generate Dark Stats Card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=FF69B4&text_color=c9d1d9&icon_color=FFB7C5&border_color=FF69B4&hide_border=false
+          path: profile/stats-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Dark Top Languages Card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&show_icons=true&bg_color=0d1117&title_color=FF69B4&text_color=c9d1d9&icon_color=FFB7C5&border_color=FF69B4&hide_border=false
+          path: profile/top-langs-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 推送到 stats-output 分支，README 通过 raw.githubusercontent.com 引用
+      - name: push stats SVGs to the stats-output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: stats-output
+          build_dir: profile
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
