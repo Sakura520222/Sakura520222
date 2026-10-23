@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Sakura520222 — Sakura themed developer banner</title>
+  <desc id="desc">Pastel anime-inspired cherry blossom banner with a chibi character, stars and a crescent moon.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff5fa"/><stop offset=".52" stop-color="#f4e8ff"/><stop offset="1" stop-color="#e6efff"/></linearGradient>
+    <linearGradient id="hair" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#79578e"/><stop offset="1" stop-color="#443b70"/></linearGradient>
+    <linearGradient id="coat" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#eadcf8"/></linearGradient>
+    <g id="flower">
+      <ellipse cx="0" cy="-9" rx="5" ry="9" fill="#ffb8d4"/><ellipse cx="8.5" cy="-2.8" rx="5" ry="9" transform="rotate(72 8.5 -2.8)" fill="#ffc9df"/><ellipse cx="5.3" cy="7.3" rx="5" ry="9" transform="rotate(144 5.3 7.3)" fill="#ffa9ce"/><ellipse cx="-5.3" cy="7.3" rx="5" ry="9" transform="rotate(216 -5.3 7.3)" fill="#ffc9df"/><ellipse cx="-8.5" cy="-2.8" rx="5" ry="9" transform="rotate(288 -8.5 -2.8)" fill="#ffa9ce"/><circle r="3.5" fill="#ffe79d"/>
+    </g>
+  </defs>
+  <rect width="1200" height="340" rx="26" fill="url(#bg)"/>
+  <circle cx="1060" cy="63" r="33" fill="#fff7cc" opacity=".9"/><circle cx="1074" cy="52" r="31" fill="#eee5ff"/>
+  <g fill="#fff" opacity=".9"><circle cx="742" cy="57" r="3"/><circle cx="790" cy="98" r="4"/><circle cx="1120" cy="128" r="3"/><circle cx="692" cy="247" r="3"/><circle cx="1018" cy="263" r="4"/><circle cx="1160" cy="213" r="3"/></g>
+  <g stroke="#fff" stroke-width="3" stroke-linecap="round" opacity=".9"><path d="M728 105v14m-7-7h14"/><path d="M1113 174v16m-8-8h16"/><path d="M800 256v12m-6-6h12"/><path d="M1011 103v12m-6-6h12"/></g>
+  <g opacity=".8"><use href="#flower" transform="translate(680 73) scale(.8)"/><use href="#flower" transform="translate(755 290) scale(.65) rotate(18)"/><use href="#flower" transform="translate(1138 76) scale(.72) rotate(-18)"/><use href="#flower" transform="translate(1154 284) scale(.9) rotate(22)"/><use href="#flower" transform="translate(630 190) scale(.48) rotate(10)"/></g>
+  <path d="M0 276 C130 236 218 309 347 280 S563 246 684 291 V340 H0Z" fill="#fff" opacity=".32"/><path d="M630 320 C760 260 873 311 1005 277 S1132 273 1200 293 V340 H630Z" fill="#d8c8f3" opacity=".4"/>
+  <g font-family="Segoe UI, Microsoft YaHei, sans-serif">
+    <text x="68" y="126" font-size="53" font-weight="750" letter-spacing="1.2" fill="#4f3c66">Sakura520222</text>
+    <text x="72" y="174" font-size="23" font-weight="600" fill="#a04f82">把灵感写进代码里。</text>
+    <text x="73" y="211" font-size="16" letter-spacing="3.2" fill="#766184">AI AGENT · OPEN SOURCE · CREATIVE CODE</text>
+    <rect x="70" y="239" width="218" height="37" rx="18.5" fill="#fff" fill-opacity=".72" stroke="#e8c6df"/><circle cx="91" cy="257.5" r="5" fill="#e985b5"/><text x="107" y="263" font-size="14" font-weight="600" fill="#72517f">独立开发者 / 开源爱好者</text>
+  </g>
+  <g>
+    <ellipse cx="927" cy="307" rx="116" ry="12" fill="#8b6b9f" opacity=".13"/>
+    <path d="M846 261 Q854 226 887 222 L963 222 Q1001 230 1008 272 L1016 315 L832 315Z" fill="url(#coat)"/>
+    <path d="M893 226 L925 261 L956 226 L969 315 L878 315Z" fill="#d6c5ef"/>
+    <path d="M910 244 L927 263 L944 244 L936 315 L918 315Z" fill="#ffb8d4"/>
+    <path d="M846 132 Q822 93 837 70 Q852 48 874 85 L883 128Z" fill="url(#hair)"/><path d="M975 128 Q1000 88 1018 72 Q1035 93 1011 137 L988 145Z" fill="url(#hair)"/>
+    <path d="M846 128 Q837 73 883 56 Q936 34 979 66 Q1014 91 1001 151 L989 218 Q968 244 931 242 Q887 240 865 212Z" fill="url(#hair)"/>
+    <ellipse cx="925" cy="154" rx="59" ry="70" fill="#ffe0d9"/>
+    <path d="M866 147 Q863 90 911 79 Q959 66 986 111 Q963 103 947 88 Q925 120 892 122 Q879 136 866 147Z" fill="url(#hair)"/>
+    <path d="M873 120 Q887 101 906 102 Q897 122 879 137Z" fill="#5e477b"/><path d="M915 105 Q935 90 954 102 Q945 120 925 125Z" fill="#5e477b"/>
+    <path d="M883 151 Q895 142 906 151" fill="none" stroke="#604363" stroke-width="4" stroke-linecap="round"/><path d="M944 151 Q955 142 967 151" fill="none" stroke="#604363" stroke-width="4" stroke-linecap="round"/>
+    <ellipse cx="897" cy="163" rx="8" ry="12" fill="#8d6ba4"/><ellipse cx="955" cy="163" rx="8" ry="12" fill="#8d6ba4"/><circle cx="899" cy="159" r="3" fill="#fff"/><circle cx="957" cy="159" r="3" fill="#fff"/>
+    <path d="M919 181 Q925 188 932 181" fill="none" stroke="#d77d9f" stroke-width="3" stroke-linecap="round"/><ellipse cx="881" cy="177" rx="10" ry="5" fill="#f5a5b6" opacity=".62"/><ellipse cx="970" cy="177" rx="10" ry="5" fill="#f5a5b6" opacity=".62"/>
+    <path d="M868 199 Q845 177 851 147 Q861 122 872 111 Q863 165 890 193 Q908 212 925 213 Q956 210 978 181 Q990 157 982 121 Q1008 148 995 190 Q977 233 935 239 Q895 237 868 199Z" fill="url(#hair)"/>
+    <path d="M869 222 Q855 237 850 260 L877 273 L894 240Z" fill="#5a4778"/><path d="M980 220 Q1000 234 1007 258 L980 274 L959 240Z" fill="#5a4778"/>
+    <path d="M907 242 L892 260 L912 270 L927 260Z" fill="#f7a9ca"/><path d="M947 242 L963 260 L942 270 L927 260Z" fill="#f7a9ca"/><circle cx="927" cy="260" r="5" fill="#ffe79d"/>
+    <g transform="translate(979 115) rotate(18)"><use href="#flower" transform="scale(.72)"/></g>
+  </g>
+</svg>
