@@ -4,8 +4,6 @@
 
 # 🌸 Sakura520222
 
-**把灵感写进代码里。**
-
 专注于 AI Agent、机器人生态、开发者工具与游戏项目的独立开发者。
 
 [![GitHub](https://img.shields.io/badge/GitHub-Sakura520222-242938?style=flat-square&logo=github&logoColor=white)](https://github.com/Sakura520222)
@@ -17,19 +15,20 @@
 
 ---
 
-## ✨ 关于我
+## 关于我
 
-- 🌸 喜欢把有趣的想法做成真正能用的工具。
-- 🤖 关注 AI Agent、工具调用、上下文管理与自动化工作流。
-- 🧩 活跃于 Python 机器人插件、AI 应用和 Minecraft 模组开发。
-- 🛠️ 重视可维护性、自动化测试与持续迭代。
+- 热爱二次元与GalGame。
+- 喜欢把有趣的想法做成真正能用的工具。
+- 关注 AI Agent与自动化工作流。
+- 活跃于 Python 机器人插件、AI 应用和 Minecraft 模组开发。
+- 重视可维护性、自动化测试与持续迭代。
 
-## 🚀 精选项目
+## 精选项目
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌸 <a href="https://github.com/Sakura520222/Sakura-AI">Sakura-AI</a></h3>
+      <h3><a href="https://github.com/Sakura520222/Sakura-AI">Sakura-AI</a></h3>
       <p>AI 驱动的 GitHub 代码审查与 Issue 分析平台，包含 Agent 任务委派、仓库扫描和自动化协作能力。</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
@@ -39,7 +38,7 @@
       <a href="https://ai.firefly520.top/">在线体验</a> · <a href="https://github.com/Sakura520222/Sakura-AI">源码</a>
     </td>
     <td width="50%" valign="top">
-      <h3>💬 <a href="https://github.com/Sakura520222/astrbot_plugin_chat_engine">AstrBot Chat Engine</a></h3>
+      <h3><a href="https://github.com/Sakura520222/astrbot_plugin_chat_engine">AstrBot Chat Engine</a></h3>
       <p>AstrBot 聊天增强插件，提供上下文管理、多会话、人格系统、工具调用、记忆与 WebUI 管理。</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
@@ -50,7 +49,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎮 <a href="https://github.com/Sakura520222/FireflyMC">FireflyMC</a></h3>
+      <h3><a href="https://github.com/Sakura520222/FireflyMC">FireflyMC</a></h3>
       <p>面向 Minecraft 1.21.1 与 NeoForge 的模组，包含游戏内点歌、服务器 HUD、AI 聊天助手等功能。</p>
       <p>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
@@ -60,7 +59,7 @@
       <a href="https://mc.firefly520.top/">项目官网</a> · <a href="https://github.com/Sakura520222/FireflyMC">源码</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🎵 <a href="https://github.com/Sakura520222/Sakura-Player">Sakura Player</a></h3>
+      <h3><a href="https://github.com/Sakura520222/Sakura-Player">Sakura Player</a></h3>
       <p>跨平台桌面音乐播放器二次开发版本，支持本地曲库、自建媒体源、逐字歌词与 AI 歌词辅助。</p>
       <p>
         <img src="https://img.shields.io/badge/Rust-CE422B?style=flat-square&logo=rust&logoColor=white" alt="Rust">
@@ -71,15 +70,7 @@
   </tr>
 </table>
 
-<details>
-<summary>🌱 更多项目</summary>
-
-- [Sakura Snake](https://github.com/Sakura520222/Sakura-Snake) — 支持网页版与桌面版的贪吃蛇游戏，包含 AI 辅助和多种游戏模式。
-- [AstrBot Web Analyzer](https://github.com/Sakura520222/astrbot_plugin_web_analyzer) — AstrBot 生态中的网页分析插件。
-
-</details>
-
-## 🧰 技术栈
+## 技术栈
 
 <div align="center">
 
@@ -99,22 +90,17 @@
 
 </div>
 
-## 📊 GitHub 数据
+## GitHub 数据
 
 <div align="center">
-
-<a href="https://github.com/Sakura520222">
-  <img height="180" src="https://raw.githubusercontent.com/Sakura520222/Sakura520222/stats-output/stats-light.svg" alt="GitHub 统计卡片">
-</a>
 <a href="https://github.com/Sakura520222">
   <img height="180" src="https://raw.githubusercontent.com/Sakura520222/Sakura520222/stats-output/top-langs-light.svg" alt="常用语言排行">
 </a>
 
 </div>
 
-> 统计图由本仓库的 `stats-output` 分支提供。若图片暂时无法加载，仍可直接查看上方项目与下方贡献记录。
 
-## 🐍 贡献轨迹
+## 贪吃蛇
 
 <div align="center">
 
@@ -126,7 +112,7 @@
 
 </div>
 
-## 🌐 找到我
+## 找到我
 
 - **个人博客：** [blog.pyabunny.com](https://blog.pyabunny.com/)
 - **项目体验：** [Sakura-AI](https://ai.firefly520.top/) · [Sakura Player](https://sakura-player.pyabunny.com/) · [FireflyMC](https://mc.firefly520.top/)
@@ -139,6 +125,6 @@
 
 *🌸 始于初雪 · 终于樱*
 
-<sub>感谢来访。愿每一次灵感，都能成为下一次提交。</sub>
+<sub>感谢来访</sub>
 
 </div>
