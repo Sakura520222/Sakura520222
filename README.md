@@ -38,13 +38,14 @@
       <a href="https://ai.firefly520.top/">在线体验</a> · <a href="https://github.com/Sakura520222/Sakura-AI">源码</a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Sakura520222/astrbot_plugin_chat_engine">AstrBot Chat Engine</a></h3>
-      <p>AstrBot 聊天增强插件，提供上下文管理、多会话、人格系统、工具调用、记忆与 WebUI 管理。</p>
+      <h3><a href="https://github.com/Sakura520222/Sakura-Bot">Sakura-Bot</a></h3>
+      <p>Telegram 频道管理工具：AI 总结频道内容、RAG 智能问答、消息转发、订阅推送、投稿审核与 WebUI 管理面板，附 Sakura Guard 群管模块。</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-        <img src="https://img.shields.io/badge/AstrBot-7D69B5?style=flat-square" alt="AstrBot">
+        <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram">
+        <img src="https://img.shields.io/badge/RAG-AI问答-C58ACB?style=flat-square" alt="RAG">
       </p>
-      <a href="https://github.com/Sakura520222/astrbot_plugin_chat_engine">查看项目</a>
+      <a href="https://sakura-bot.pyabunny.com/">文档站</a> · <a href="https://github.com/Sakura520222/Sakura-Bot">源码</a>
     </td>
   </tr>
   <tr>
@@ -68,6 +69,28 @@
       <a href="https://sakura-player.pyabunny.com/">项目网站</a> · <a href="https://github.com/Sakura520222/Sakura-Player">源码</a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Sakura520222/astrbot_plugin_web_analyzer">astrbot_plugin_web_analyzer</a></h3>
+      <p>AstrBot 网页分析插件：自动识别消息中的链接，智能抓取解析并用 LLM 深度总结，支持网页截图、缓存机制、多分析模式与管理面板。</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/AstrBot-7D69B5?style=flat-square" alt="AstrBot">
+        <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright">
+      </p>
+      <a href="https://github.com/Sakura520222/astrbot_plugin_web_analyzer">查看项目</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Sakura520222/xhh-workshop">xhh-workshop</a></h3>
+      <p>小黑盒社区第三方客户端：逆向 Web API 实现扫码登录、发帖、评论与互动，集成 LLM Agent 自动发帖，含 CLI、HTTP 服务与 Tauri 桌面端。</p>
+      <p>
+        <img src="https://img.shields.io/badge/Rust-CE422B?style=flat-square&logo=rust&logoColor=white" alt="Rust">
+        <img src="https://img.shields.io/badge/Tauri_2-FFC131?style=flat-square&logo=tauri&logoColor=black" alt="Tauri 2">
+        <img src="https://img.shields.io/badge/Svelte_5-FF3E00?style=flat-square&logo=svelte&logoColor=white" alt="Svelte 5">
+      </p>
+      <a href="https://github.com/Sakura520222/xhh-workshop">查看项目</a>
+    </td>
+  </tr>
 </table>
 
 ## 技术栈
@@ -78,11 +101,22 @@
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
 <img src="https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+
+**框架与生态**
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+<img src="https://img.shields.io/badge/AstrBot-7D69B5?style=for-the-badge" alt="AstrBot">
+<img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black" alt="Tauri">
+<img src="https://img.shields.io/badge/NeoForge-333333?style=for-the-badge" alt="NeoForge">
 
 **工具与平台**
 
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
@@ -111,13 +145,6 @@
 </picture>
 
 </div>
-
-## 找到我
-
-- **个人博客：** [blog.pyabunny.com](https://blog.pyabunny.com/)
-- **项目体验：** [Sakura-AI](https://ai.firefly520.top/) · [Sakura Player](https://sakura-player.pyabunny.com/) · [FireflyMC](https://mc.firefly520.top/)
-- **Telegram：** [@tamakisakura520](https://t.me/tamakisakura520)
-- **Email：** [Sakura520222@outlook.com](mailto:Sakura520222@outlook.com)
 
 <div align="center">
 
