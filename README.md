@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="车厘子小樱的樱花横幅，写有玉树樱、朝武芳乃和丛雨" width="100%">
+</p>
+
 <h2 align="center">玉树樱 · 初雪樱</h2>
 
 <p align="center">
