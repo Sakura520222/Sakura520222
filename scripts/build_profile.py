@@ -123,17 +123,17 @@ STYLE = """
   .card { fill: var(--card); }
   .mat { fill: var(--cover-mat); }
   .image-edge { fill: none; stroke: var(--image-edge); stroke-opacity: .1; }
-  .flake { fill: var(--flake); opacity: .82; animation: drift-snow var(--time) linear var(--delay) both; }
-  .petal { color: var(--petal); opacity: .58; animation: drift-petal var(--time) ease-in-out var(--delay) both; }
+  .flake { fill: var(--flake); opacity: .82; animation: drift-snow var(--time) linear var(--delay) infinite; }
+  .petal { color: var(--petal); opacity: .58; animation: drift-petal var(--time) ease-in-out var(--delay) infinite; }
   @keyframes drift-snow {
     0% { opacity: 0; transform: translate(-5px, -13px); }
     20%, 73% { opacity: .86; }
-    100% { opacity: .35; transform: translate(21px, 49px); }
+    100% { opacity: 0; transform: translate(21px, 49px); }
   }
   @keyframes drift-petal {
     0% { opacity: 0; transform: translate(-9px, -12px) rotate(-18deg); }
     26%, 71% { opacity: .67; }
-    100% { opacity: .38; transform: translate(26px, 34px) rotate(58deg); }
+    100% { opacity: 0; transform: translate(26px, 34px) rotate(58deg); }
   }
   @media (max-width: 480px) {
     .caption { font-size: 25px; }
@@ -222,11 +222,11 @@ def hero():
         portrait_data = image_data(source, (760, 690))
 
     snow = (
-        (39, 38, 3.2, 4.3, -0.7), (104, 41, 4, 4.0, -1.1), (246, 55, 2.4, 4.6, -0.2),
-        (360, 85, 3.8, 4.2, -1.5), (408, 193, 4.4, 3.8, -0.6), (720, 16, 2.8, 4.4, -1.2),
-        (428, 239, 3.0, 4.1, -1.7), (754, 221, 4, 4.7, -1.4), (32, 195, 2.5, 4.3, -1.5),
+        (39, 38, 3.2, 12, -2), (104, 41, 4, 11, -5), (246, 55, 2.4, 14, -1),
+        (360, 85, 3.8, 12, -8), (408, 193, 4.4, 10, -3), (720, 16, 2.8, 13, -6),
+        (428, 239, 3.0, 11, -9), (754, 221, 4, 15, -12), (32, 195, 2.5, 12, -9),
     )
-    petals = ((377, 206, 0.65, 4.2, -0.9), (425, 40, 0.72, 4.8, -0.4), (738, 253, 0.74, 4.5, -1.3))
+    petals = ((377, 206, 0.65, 12, -4), (425, 40, 0.72, 15, -2), (738, 253, 0.74, 13, -8))
     particles = [
         f'<circle class="flake" cx="{x}" cy="{y}" r="{radius}" style="--time:{duration}s;--delay:{delay}s"/>'
         for x, y, radius, duration, delay in snow
